@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11    CMakeFiles/publisher.dir/publisher.cc.o  -o publisher  -L/usr/local/lib -rdynamic /usr/local/lib/libignition-transport3.so -lprotobuf -lpthread -lzmq -luuid /usr/local/lib/libignition-msgs0.so.0.7.0 /usr/local/lib/libignition-math3.so.3.0.0 -lprotobuf -Wl,-rpath,/usr/local/lib 
